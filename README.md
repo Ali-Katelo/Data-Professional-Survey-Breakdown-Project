@@ -66,10 +66,6 @@ The dataset is publicly available on Alex The Analyst’s GitHub:
 
 
 
-## 📷 Dashboard Preview
-![Image Alt]([image_url](https://github.com/Ali-Katelo/Data-Professional-Survey-Breakdown-Project/blob/dcc757d7c19e5681c60188610838cbd13c8b807b/Screenshot%202025-08-22%20184145.png))
-
-
 
 ## 🚀 How to Run
 1. Download [Power BI Desktop](https://powerbi.microsoft.com/en-us/downloads/)  
