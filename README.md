@@ -13,6 +13,7 @@ It demonstrates the **end-to-end BI workflow**, including:
 The dashboard visualizes survey responses from data professionals, covering job roles, salaries, skills, and career insights.
 
 
+
 ## 📁 Dataset
 The dataset is publicly available on Alex The Analyst’s GitHub:  
 📂 [Power BI - Final Project.xlsx](https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx)  
@@ -22,12 +23,15 @@ The dataset is publicly available on Alex The Analyst’s GitHub:
 - Job titles and salaries  
 - Favorite programming languages  
 - Work-life balance & salary satisfaction ratings  
-- Perceived difficulty of breaking into data roles
-  
+- Perceived difficulty of breaking into data roles  
+
+
+
 ## 🛠️ Tools Used
 - **Microsoft Power BI Desktop**  
 - **Power Query Editor** (for data cleaning & transformation)  
 - **DAX (Data Analysis Expressions)** for measures and KPIs  
+
 
 
 ## 🧠 Skills Demonstrated
@@ -36,6 +40,8 @@ The dataset is publicly available on Alex The Analyst’s GitHub:
 - Data modeling and establishing relationships  
 - Designing **interactive reports & dashboards**  
 - Using slicers, filters, and drill-downs for analysis  
+
+
 
 ## 📌 Key Features of the Dashboard
 - **Demographics**:  
@@ -57,6 +63,11 @@ The dataset is publicly available on Alex The Analyst’s GitHub:
 - **KPI Cards**:  
   - Total number of survey respondents (630)  
   - Average age of respondents (29.87 years)  
+
+
+
+## 📷 Dashboard Preview
+![Image Alt]([image_url](https://github.com/Ali-Katelo/Data-Professional-Survey-Breakdown-Project/blob/dcc757d7c19e5681c60188610838cbd13c8b807b/Screenshot%202025-08-22%20184145.png))
 
 
 
